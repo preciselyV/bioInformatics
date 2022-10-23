@@ -1,1 +1,2 @@
-./archs/*
+archs/*
+.snakemake/
